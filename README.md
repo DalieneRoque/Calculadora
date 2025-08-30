@@ -118,6 +118,8 @@ else
 Console.ReadKey();
 ~~~
 
+### Vídeo explicativo do código
+[![Assista no YouTube](https://img.youtube.com/vi/XAlZkhraHh0/maxresdefault.jpg)](https://www.youtube.com/watch?v=XAlZkhraHh0)
 
 
 
